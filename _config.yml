@@ -1,7 +1,7 @@
-name: Scott
+name: Scott Pruett
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.66634
+layout_spectrum: 0.25397
+typography_spectrum: 0.86211
 title: scott.pruett.co
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#bfbfbf'
     - '#4e4e4e'
     - '#e2e2e2'
-  brandStrength: 1
-  lightness: 1
+  brandStrength: 0
+  lightness: 0
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
